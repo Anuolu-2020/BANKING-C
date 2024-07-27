@@ -1,0 +1,87 @@
+
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+
+# Shared objects (dynamic libraries)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executable files
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.mod*
+
+# Memory dump files
+*.core
+
+# Temporary files and directories
+*.tmp
+*.temp
+*.log
+*.swo
+*.swp
+*.DS_Store
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+*.iml
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+install_manifest.txt
+
+# Build directories
+/build/
+/out/
+/bin/
+/obj/
+
+# Auto-generated documentation
+/docs/
+/doc/
+
+# Coverage files
+*.gcda
+*.gcno
+*.gcov
+lcov-report/
+
+# Other files and directories that should not be tracked
+.tags
+*.orig
+*.rej
+*~
+.*.sw?
