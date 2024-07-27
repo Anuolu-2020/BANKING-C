@@ -85,3 +85,5 @@ lcov-report/
 *.rej
 *~
 .*.sw?
+
+main
